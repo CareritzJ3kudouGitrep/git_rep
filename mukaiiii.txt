@@ -1,2 +1,2 @@
 changeFile 20180523
-Takahashi change
+Takahashi
